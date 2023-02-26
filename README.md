@@ -1,28 +1,13 @@
-Hello
+##Deployed Link
+- https://long-boa-sun-hat.cyclic.app
 
-//Men
-Roadster
-ADIDAS
-Puma
-HIGHLANDER
-HERE&NOW
-WROGN
-Mast & Harbour
-Mast & Harbour
-HRX by Hrithik Roshan
-Louis Philippe Sport
-Dennis Lingo
-INVICTUS
-Powerlook
-
-//women
-Roadster
-Puma
-Tokyo Talkies
-plusS
-SASSAFRAS
-MANGO
-Berrylush
-KASSUALLY
-Athena
-Kotty
+`
+/men/
+/men/black
+/men/blue
+/men/green
+/women/black
+/women/blue
+/women/pink
+/bag/
+`
